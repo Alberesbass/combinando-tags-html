@@ -6,7 +6,10 @@ A página exibe informações sobre o curso, incluindo a categoria, duração, d
 
 O código para o exercício está disponível no arquivo index.html. O código está bem comentado e fácil de seguir.
 
+<img src="./combinando-tags.gif" alt="gif da tela do projeto">
+
 <h3>Como usar</h3>
 Para visualizar o exercício, clone o repositório para sua máquina local e abra o arquivo index.html em um navegador web.
 
 Eu apreciaria qualquer feedback que você tenha sobre a página. Por favor, sinta-se à vontade para abrir um problema ou solicitação de pull.
+
